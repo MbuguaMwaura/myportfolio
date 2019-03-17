@@ -24,9 +24,27 @@ h2{
 a{
   margin-right:  3%;
   text-decoration: none;
-  border: 2px solid black;
-  width: 100px;
+  color: black;
+}
+a:hover{
+  color: green;
 }
 body{
   background-repeat:no-repeat;
+}
+.me{
+  style: width:500px;height: 300px;
+  margin-left: 30%;
+
+}
+.galleryimages{
+    style: width:400px;height: 200px;
+    float:left;
+  
+}
+.picparagraph{
+  padding: 5px;
+  width: 400px;
+  margin: 5%;
+  margin-left: 40%;
 }
