@@ -12,7 +12,7 @@ h2{
   letter-spacing: 3px;
   font-family: fantasy;
   margin-top: 10%;
-
+  color: green;
 }
 .space{
   margin-bottom: 10%;
@@ -40,11 +40,25 @@ body{
 .galleryimages{
     style: width:400px;height: 200px;
     float:left;
-  
+
 }
 .picparagraph{
   padding: 5px;
   width: 400px;
   margin: 5%;
   margin-left: 40%;
+}
+.column a{
+  float: left;
+  font-size: 20px;
+  text-transform: uppercase;
+  width: 200px;
+  height: 50px;
+}
+.column p{
+  width: 500px;
+  margin-left: 10%;
+}
+.column{
+  margin-top: 10%;
 }
