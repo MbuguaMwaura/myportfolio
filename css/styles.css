@@ -5,7 +5,8 @@
 h1{
   font-size: 40px;
   letter-spacing: 5px;
-  opacity: 10;
+  opacity: 0.3;
+  color: green;
 }
 h2{
   font-size: 30px;
