@@ -62,3 +62,6 @@ body{
 .column{
   margin-top: 10%;
 }
+span{
+  color: green;
+}
