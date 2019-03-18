@@ -32,7 +32,7 @@ a:hover{
 }
 body{
   background-repeat:no-repeat;
-  background-size: cover;
+  background-size: 100% auto;
 }
 .me{
   style: width:500px;height: 300px;
@@ -69,4 +69,10 @@ span{
 }
 .borderline{
   border-bottom: 2px solid green;
+}
+#backpic{
+  background-size: cover;
+}
+#backpic1{
+  background-size: contain;
 }
