@@ -76,6 +76,9 @@ span{
 #backpic1{
   background-size: contain;
 }
+#space{
+  width: 400px;
+}
 
 @media screen and (min-width: 480px) and (max-width: 767px) {
      body {
